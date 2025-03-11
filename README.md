@@ -1,7 +1,7 @@
 ## Hey, I'm Upendra Valera  👋
 - 👨‍💻 Developer since June-2002
 - 🔭 Passionate about Gen AI Application / DataEngineering / DataScience
-- 🔭 I’m currently building product using Multi Agent, RAG, Prompt Optimization with Open Source LLM Model.
+- 🔭 I’m currently building AI Power Product using Multi Agent Framework, RAG Pattern, Prompt Optimization with Open Source LLM Model.
 - 🌱 I’m currently learning LLMOps, Agent App Observability using OpenTelemetry
 <!--
 **upendravalera/upendravalera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
