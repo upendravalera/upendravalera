@@ -1,12 +1,16 @@
-## Hi there 👋
-
+## Hey, I'm Upendra Valera  👋
+- 👨‍💻 Developer since June-2002
+- 🔭 Passionate about Gen AI Application / DataEngineering / DataScience
+- 🔭 I’m currently building product using Multi Agent, RAG, Prompt Optimization by Open Source LLM Model.
+- 🌱 I’m currently learning LLMOps, Agent App Observability using OpenTelemetry
 <!--
 **upendravalera/upendravalera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🤖 Founder and Board Member of Cogniverse an AI Startup
+- 🚀 Runing a Startup Cogniverse
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
